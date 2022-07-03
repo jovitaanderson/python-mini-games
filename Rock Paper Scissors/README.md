@@ -2,7 +2,9 @@
 This is a simple rock paper scissor game against the computer
 
 ## :memo: Instructions 
-1. Choose an action, rock, paper or scissors <br />
+1. You will choose an action, rock, paper or scissors <br />
+2. Then the computer will choose an action  <br />
+
    Rock beats Scissors <br />
    Scissors beats Paper <br />
    Paper beats Rock <br />
