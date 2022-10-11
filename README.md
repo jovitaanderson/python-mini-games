@@ -1,5 +1,5 @@
-# Python Mini Games :joystick:
-These are some mini games I made in python for fun :blush:
+# Python Mini Games 🕹️
+These are some mini games I made in python for fun 😊
 
 | No.    | LastName      | Description  |
 | :----: |   :---:       | -------- |
